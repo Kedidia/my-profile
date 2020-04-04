@@ -1,0 +1,32 @@
+/* Write your CSS here */
+body {
+  background: rgb(248,248,248);
+  text-align: center;
+  color: blue;
+  margin: 0px;
+  font-size: 35px;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-family: Courier;
+  color: blue;
+  font-weight: lighter;
+  font-size: 35px;
+}
+
+h3 {
+  font-family: Cambria;
+  color: green;
+  font-weight: lighter;
+  font-size: 25px;
+}
+
+a {
+  color: brown;
+}
+
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
